@@ -1,0 +1,26 @@
+{
+  "name": "sails-hook-acl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/listepo/sails-hook-acl.git"
+  },
+  "author": "Ivan Tugay <listepo@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/listepo/sails-hook-acl/issues"
+  },
+  "homepage": "https://github.com/listepo/sails-hook-acl",
+  "dependencies": {
+    "acl": "^0.4.7"
+  },
+  "devDependencies": {
+    "eslint": "^1.0.0-rc-3",
+    "eslint-config-standard": "^4.0.0-5"
+  }
+}
